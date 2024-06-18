@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_france.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/france.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_costa_rica.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/costa_rica.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_venezuela.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/venezuela.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_australia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\australia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_tunisia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\tunisia.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_south_africa.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/south_africa.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_cuba.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/cuba.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_portugal.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\portugal.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_south_sudan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\south_sudan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_mexico.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/mexico.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxhdpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxhdpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_sao_tome.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\sao_tome.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-ldpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-ldpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_italy.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\italy.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_parguay.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\parguay.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_costarica.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\costarica.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_paraguay.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/paraguay.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_france.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\france.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_qatar.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/qatar.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-mdpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-mdpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_uae.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/uae.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_poland.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/poland.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_bangladesh.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\bangladesh.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_saudi_arabia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\saudi_arabia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_chad.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/chad.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\font_sixtyfour_regular.ttf.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\font\\sixtyfour_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_dprk.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\dprk.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_algeria.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\algeria.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_brazil.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/brazil.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_andorra.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\andorra.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_afganistan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/afganistan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_lebanon.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\lebanon.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_switzerland.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\switzerland.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_argentina.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/argentina.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_finland.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/finland.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_bangladesh.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/bangladesh.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_usa.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\usa.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_night.jpg.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_japan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/japan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_day.jpg.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\day.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_loading.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\loading.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_london.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/london.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_jamaica.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\jamaica.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_barbados.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\barbados.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_south_sudan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/south_sudan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_ireland.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\ireland.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_afganistan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\afganistan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_turkmenistan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/turkmenistan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_progress_two.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\progress_two.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_spain.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\spain.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_panama.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\panama.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-mdpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-mdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_hungary.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\hungary.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_gaza.jpg.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\gaza.jpg"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_panama.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/panama.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_cotdivoire.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\cotdivoire.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_canada.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/canada.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_saudi_arabia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/saudi_arabia.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_sudan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/sudan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_libiya.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/libiya.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\layout_activity_location_recycler.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\layout\\activity_location_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_turkey.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\turkey.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_israel.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/israel.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_denmark.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\denmark.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_namibiya.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/namibiya.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_thailand.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/thailand.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_indonesia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/indonesia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_ethiopia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\ethiopia.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_greece.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/greece.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_libiya.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\libiya.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_qatar.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\qatar.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_taiwan.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\taiwan.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_guyana.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\guyana.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-hdpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-hdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_south_korea.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\south_korea.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_progress_five.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\progress_five.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxxhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_bermuda.png.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/bermuda.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_cuba.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\cuba.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_london.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\london.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxxhdpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxxhdpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_belgium.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\belgium.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_philippines.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\philippines.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_ukraine.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\ukraine.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_day.jpg.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/day.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_jordan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\jordan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_italy.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/italy.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_usa.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/usa.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_poland.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\poland.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_germany.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/germany.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_nigeria.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/nigeria.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_china.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\china.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_world_time_logo.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\world_time_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_iran.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\iran.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_spain.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/spain.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_russia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\russia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_parguay.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/parguay.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_indonesia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\indonesia.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_moroco.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/moroco.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_malta.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\malta.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_lebanon.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/lebanon.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-ldpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-ldpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_gaza.jpg.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/gaza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_colombi.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\colombi.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_belize.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/belize.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_finland.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\finland.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_cotdivoire.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/cotdivoire.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_russia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/russia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_belarus.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\belarus.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_el_salvador.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\el_salvador.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_china.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/china.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_iran.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/iran.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_australia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/australia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_serbia.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\serbia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_portugal.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/portugal.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_philippines.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/philippines.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_sao_tome.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/sao_tome.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_egypt.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\egypt.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_ginea_bissau.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/ginea_bissau.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\layout_activity_chose_location.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\layout\\activity_chose_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_ecuador.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\ecuador.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_mozambique.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\mozambique.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_uae.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\uae.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_progress_four.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\progress_four.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_el_salvador.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/el_salvador.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_syria.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\syria.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_moroco.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\moroco.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_dprk.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/dprk.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_paraguay.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\paraguay.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_south_korea.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/south_korea.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_jordan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/jordan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_kenya.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/kenya.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-hdpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-hdpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_world_time_logo.png.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/world_time_logo.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_kazakhstan.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/kazakhstan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_malta.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/malta.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-anydpi-v21_ic_time.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-anydpi-v21\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_argentina.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\argentina.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_venezuela.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\venezuela.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_sudan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\sudan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_chad.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\chad.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_andorra.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/andorra.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_india.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/india.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_algeria.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/algeria.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_ukraine.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/ukraine.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_thailand.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\thailand.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xhdpi_ic_edit_location.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xhdpi\\ic_edit_location.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_israel.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\israel.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_progress_one.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\progress_one.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_egypt.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/egypt.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_ethiopia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/ethiopia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_costa_rica.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\costa_rica.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_belgium.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/belgium.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_belize.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\belize.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_germany.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\germany.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_nigeria.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\nigeria.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_ginea_bissau.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\ginea_bissau.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_south_africa.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\south_africa.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_jamaica.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/jamaica.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_turkmenistan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\turkmenistan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_canada.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\canada.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_syria.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/syria.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_ireland.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/ireland.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_hungary.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/hungary.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_iraq.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/iraq.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_colombi.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/colombi.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_costarica.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/costarica.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_taiwan.png.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/taiwan.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_tunisia.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/tunisia.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_greece.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\greece.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_guyana.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/guyana.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_barbados.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/barbados.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_night.jpg.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_kazakhstan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\kazakhstan.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_brazil.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\brazil.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_guatemala.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/guatemala.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-anydpi-v21_ic_edit_location.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-anydpi-v21\\ic_edit_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-pngs-27:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_kenya.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\kenya.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_mozambique.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/mozambique.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_japan.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\japan.gif"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_denmark.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/denmark.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_mexico.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\mexico.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable-v24_progress_three.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable-v24\\progress_three.png"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_switzerland.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/switzerland.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_india.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\india.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_iraq.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\iraq.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_bermuda.png.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\bermuda.png"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_guatemala.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\guatemala.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.yonastedela63.worldtime.app-merged_res-32:/drawable-v24_ecuador.gif.flat",
+        "source": "com.yonastedela63.worldtime.app-main-34:/drawable-v24/ecuador.gif"
+    },
+    {
+        "merged": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-merged_res-32:\\drawable_namibiya.gif.flat",
+        "source": "C:\\Users\\yonas\\.gradle\\daemon\\7.4\\com.yonastedela63.worldtime.app-main-34:\\drawable\\namibiya.gif"
+    }
+]

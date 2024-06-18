@@ -1,0 +1,35 @@
+com.yonastedela63.worldtime.app-recyclerview-1.1.0-0 C:\Users\yonas\.gradle\caches\transforms-3\0669cfa2680cb1a246f3cde1cbb2ad91\transformed\recyclerview-1.1.0\res
+com.yonastedela63.worldtime.app-constraintlayout-2.1.4-1 C:\Users\yonas\.gradle\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\res
+com.yonastedela63.worldtime.app-activity-1.8.0-2 C:\Users\yonas\.gradle\caches\transforms-3\289a9f1ec9c53dfeb5d064c93fe2b789\transformed\activity-1.8.0\res
+com.yonastedela63.worldtime.app-lifecycle-livedata-core-2.6.1-3 C:\Users\yonas\.gradle\caches\transforms-3\41c9dc8da6ad3d9b2acac4d85e8ebc36\transformed\lifecycle-livedata-core-2.6.1\res
+com.yonastedela63.worldtime.app-drawerlayout-1.1.1-4 C:\Users\yonas\.gradle\caches\transforms-3\46e80d470db2b1b1912846da9c9a9db2\transformed\drawerlayout-1.1.1\res
+com.yonastedela63.worldtime.app-fragment-1.3.6-5 C:\Users\yonas\.gradle\caches\transforms-3\4a9395b98a41774121f6ab6389bc64b3\transformed\fragment-1.3.6\res
+com.yonastedela63.worldtime.app-profileinstaller-1.3.0-6 C:\Users\yonas\.gradle\caches\transforms-3\6c1f6f720a9b46eed4dee5925aff2f6a\transformed\profileinstaller-1.3.0\res
+com.yonastedela63.worldtime.app-annotation-experimental-1.3.0-7 C:\Users\yonas\.gradle\caches\transforms-3\73587f1eb845e337cf4f25957f776481\transformed\annotation-experimental-1.3.0\res
+com.yonastedela63.worldtime.app-appcompat-1.6.1-8 C:\Users\yonas\.gradle\caches\transforms-3\780c8931bfe5d3b0e26a458d121ff58b\transformed\appcompat-1.6.1\res
+com.yonastedela63.worldtime.app-material-1.11.0-9 C:\Users\yonas\.gradle\caches\transforms-3\7e03adcfe8d5ea3b8a82558e8ae93198\transformed\material-1.11.0\res
+com.yonastedela63.worldtime.app-lifecycle-viewmodel-2.6.1-10 C:\Users\yonas\.gradle\caches\transforms-3\97c93d1dbd10b223b8a0daac3cde66c1\transformed\lifecycle-viewmodel-2.6.1\res
+com.yonastedela63.worldtime.app-core-1.9.0-11 C:\Users\yonas\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\res
+com.yonastedela63.worldtime.app-lifecycle-runtime-2.6.1-12 C:\Users\yonas\.gradle\caches\transforms-3\9983c362dabc21c7af537f3b4a314340\transformed\lifecycle-runtime-2.6.1\res
+com.yonastedela63.worldtime.app-core-runtime-2.2.0-13 C:\Users\yonas\.gradle\caches\transforms-3\9e15e6faab3d38cda51d766d28a356ce\transformed\core-runtime-2.2.0\res
+com.yonastedela63.worldtime.app-lifecycle-livedata-2.6.1-14 C:\Users\yonas\.gradle\caches\transforms-3\b80bf567918e87f1b0937b376c263546\transformed\lifecycle-livedata-2.6.1\res
+com.yonastedela63.worldtime.app-transition-1.2.0-15 C:\Users\yonas\.gradle\caches\transforms-3\b96256539dbd15fe05ef3f774d34b33b\transformed\transition-1.2.0\res
+com.yonastedela63.worldtime.app-viewpager2-1.0.0-16 C:\Users\yonas\.gradle\caches\transforms-3\b975d4bc4d6d45f491a86fff0fa3caaf\transformed\viewpager2-1.0.0\res
+com.yonastedela63.worldtime.app-emoji2-1.2.0-17 C:\Users\yonas\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\res
+com.yonastedela63.worldtime.app-lifecycle-viewmodel-savedstate-2.6.1-18 C:\Users\yonas\.gradle\caches\transforms-3\ca36b3a7db6785763a1134437b037267\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.yonastedela63.worldtime.app-emoji2-views-helper-1.2.0-19 C:\Users\yonas\.gradle\caches\transforms-3\ca9654ed01a68aaa74694e1ce6a0d24b\transformed\emoji2-views-helper-1.2.0\res
+com.yonastedela63.worldtime.app-savedstate-1.2.1-20 C:\Users\yonas\.gradle\caches\transforms-3\cc6b74f92e9d00c36b8c308eff2a16f6\transformed\savedstate-1.2.1\res
+com.yonastedela63.worldtime.app-startup-runtime-1.1.1-21 C:\Users\yonas\.gradle\caches\transforms-3\ce2ffdaf6b82693a50f2f836056ec56a\transformed\startup-runtime-1.1.1\res
+com.yonastedela63.worldtime.app-core-ktx-1.9.0-22 C:\Users\yonas\.gradle\caches\transforms-3\d5f5daab6348a10d8c25074b8e066410\transformed\core-ktx-1.9.0\res
+com.yonastedela63.worldtime.app-appcompat-resources-1.6.1-23 C:\Users\yonas\.gradle\caches\transforms-3\d7da6342416f1a06ec794462749e33bf\transformed\appcompat-resources-1.6.1\res
+com.yonastedela63.worldtime.app-cardview-1.0.0-24 C:\Users\yonas\.gradle\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\res
+com.yonastedela63.worldtime.app-lifecycle-process-2.6.1-25 C:\Users\yonas\.gradle\caches\transforms-3\fb046b524b2fb6f1a25b4a93ca69ac8a\transformed\lifecycle-process-2.6.1\res
+com.yonastedela63.worldtime.app-coordinatorlayout-1.1.0-26 C:\Users\yonas\.gradle\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\res
+com.yonastedela63.worldtime.app-pngs-27 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\generated\res\pngs\debug
+com.yonastedela63.worldtime.app-resValues-28 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\generated\res\resValues\debug
+com.yonastedela63.worldtime.app-rs-29 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\generated\res\rs\debug
+com.yonastedela63.worldtime.app-packageDebugResources-30 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.yonastedela63.worldtime.app-packageDebugResources-31 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.yonastedela63.worldtime.app-merged_res-32 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\build\intermediates\merged_res\debug
+com.yonastedela63.worldtime.app-debug-33 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\src\debug\res
+com.yonastedela63.worldtime.app-main-34 G:\Yonas DB\Computer\Programing\Demo2\Android\WorldTime\app\src\main\res
